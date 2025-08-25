@@ -30,6 +30,7 @@ urlpatterns = [
     path('api/', include('vazifalar.urls')),
     path('api/', include('davomat.urls')),
     path('api/', include('guruhlar.urls')),
+    path('api/', include('tulovlar.urls')),
     
 
     path('swagger<format>/', schema_view.without_ui(cache_timeout=0), name='schema-json'),

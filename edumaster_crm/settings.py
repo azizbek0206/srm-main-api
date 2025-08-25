@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'vazifalar',
     'davomat',
     'guruhlar',
+    'tulovlar',
 
     'rest_framework',
     'drf_yasg',
