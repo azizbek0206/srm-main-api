@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'sms',
     'kurslar',
     'vazifalar',
+    'davomat',
 
     'rest_framework',
     'drf_yasg',
