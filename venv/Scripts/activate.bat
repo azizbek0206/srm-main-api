@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\TIMII-10\Desktop\Azizbek bekkend\8-oy\edumaster_crm\venv
+set VIRTUAL_ENV=C:\Users\TIMII-10\Desktop\Azizbek bekkend\8-oy\yangi_loyiha\edumaster_crm\venv
 
 if not defined PROMPT set PROMPT=$P$G
 
